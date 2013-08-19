@@ -309,6 +309,7 @@ a.text-success:focus {
 \*------------------------------------*/
 .btn-group-justified .btn {
     border-right: none;
+    width: 100%;
 }
 /*------------------------------------*\
     $input-group-btn
