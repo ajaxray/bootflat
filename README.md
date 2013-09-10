@@ -20,7 +20,9 @@ You don't like the default values?, it's extremely easy to add or change element
 
 ## Changelog:
 
-2013/8/25 support Bootstrap 3.0, add square UI style 
+2013/9/10 adjust the files structure, optimize Color Swatches, add extended styles. 
+
+2013/8/25 support Bootstrap 3.0, add square UI style. 
 
 2013/8/17 fixed IE8 bug. compatible browsers: IE8, IE9, IE10, Firefox, Safari, Opera, Chrome.
 
