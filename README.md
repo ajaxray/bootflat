@@ -19,6 +19,7 @@ Bootflat is built based not only to look nice in desktop browsers, but on smartp
 You don't like the default values?, it's extremely easy to add or change elements
 
 ## Changelog:
+
 2013/10/31 support Font Awesome v4.0.1.
 
 2013/9/10 adjust the files structure, optimize Color Swatches, add extended styles. 
@@ -43,5 +44,5 @@ You don't like the default values?, it's extremely easy to add or change element
 
 ## Useful Links:
 
-+ Font Awesome 3.0.2 - [http://fortawesome.github.com/Font-Awesome/](http://fortawesome.github.com/Font-Awesome/)
++ Font Awesome 4.0.1 - [http://fortawesome.github.com/Font-Awesome/](http://fortawesome.github.com/Font-Awesome/)
 + iCheck v0.8 - [https://github.com/damirfoy/icheck](https://github.com/damirfoy/icheck)
